@@ -7,19 +7,19 @@
       
        npm install --save express
        
-##### 2. mongoose : to make the query for database and connect with mongodb database
+#### 2. mongoose : to make the query for database and connect with mongodb database
     
    [documentation of mongoose](https://www.npmjs.com/package/mongoose)
       
        npm install --save mongoose
        
-##### 3. ejs(extended javascript): template engine to render the ejs files to html file
+#### 3. ejs(extended javascript): template engine to render the ejs files to html file
     
    [documentation of ejs](https://www.npmjs.com/package/ejs)
       
        npm install --save ejs
 
-##### 3. body-parser: Parse incoming request bodies in a middleware before your handlers, available under the req.body                  property.
+#### 4. body-parser: Parse incoming request bodies in a middleware before your handlers, available under the req.body                  property.
     
    [documentation of body-parser](https://www.npmjs.com/package/body-parser)
       
