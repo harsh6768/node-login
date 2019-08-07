@@ -3,19 +3,19 @@
 ### Used Dependencies:
 ##### 1. express : to make server and routes
     
-    [documentation of express](http://expressjs.com/)
+   [documentation of express](http://expressjs.com/)
       
        npm install --save express
        
 ##### 2. mongoose : to make the query for database and connect with mongodb database
     
-    [documentation of mongoose](https://www.npmjs.com/package/mongoose)
+   [documentation of mongoose](https://www.npmjs.com/package/mongoose)
       
        npm install --save mongoose
        
 ##### 3. joi : to validate the input
     
-    [documentation of joi](https://www.npmjs.com/package/@hapi/joi)
+   [documentation of joi](https://www.npmjs.com/package/@hapi/joi)
       
        npm install --save @hapi/joi
 
