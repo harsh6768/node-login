@@ -15,6 +15,16 @@
   2. View
   3. Controller
   
+  1. Model: The model represents the data, and does nothing else. The model does NOT depend on the controller or the view.
+  
+  2. View: The view displays the model data, and sends user actions (e.g. button clicks) to the controller. The view can:
+
+        a. be independent of both the model and the controller; or
+
+       b. actually be the controller, and therefore depend on the model.
+  3. Controller: The controller provides model data to the view, and interprets user actions such as button clicks. The               controller depends on the view and the model. In some cases, the controller and the view are the same object.
+  
+  
   
 
             node-login
