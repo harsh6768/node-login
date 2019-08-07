@@ -4,7 +4,8 @@
 1. joi : to validate the input
       
       npm install --save @hapi/joi
-  [](https://www.npmjs.com/package/@hapi/joi)
+      
+  [documentation](https://www.npmjs.com/package/@hapi/joi)
   
 # Simple Login Page
 1. run the below command to download all the dependency
