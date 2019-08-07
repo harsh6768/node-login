@@ -1,7 +1,9 @@
 #####
 ## :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
 
-# MVC STRUCTURE
+# Simple Login Page
+
+## MVC STRUCTURE
   [image credit](https://dribbble.com/shots/6322769-MVC-Technology-Website-Illustration-2)
   
   <img src="https://github.com/harsh6768/node-login/blob/master/images/mvc.png" alt="">
@@ -67,7 +69,7 @@
       
   
   
-# Simple Login Page
+
 1. run the below command to download all the dependency
 
        npm install
