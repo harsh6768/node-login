@@ -11,9 +11,6 @@
  ## What is MVC?
     
   The MVC is an architectural pattern that separates an application into three main logical components.
-  1. Model
-  2. View
-  3. Controller
   
   1. Model: The model represents the data, and does nothing else. The model does NOT depend on the controller or the view.
   
