@@ -2,7 +2,7 @@
 ## :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
 
 # MVC STRUCTURE
-  [credit](https://dribbble.com/shots/6322769-MVC-Technology-Website-Illustration-2)
+  [image credit](https://dribbble.com/shots/6322769-MVC-Technology-Website-Illustration-2)
   
   <img src="https://github.com/harsh6768/node-login/blob/master/images/mvc.png" alt="">
   
