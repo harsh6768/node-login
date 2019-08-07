@@ -2,6 +2,8 @@
 ## :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
 
 # MVC STRUCTURE
+  <img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153813.png"
+alt="" width="250" height="450" >
 
         node-login
         ├── app.js
