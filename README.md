@@ -6,6 +6,13 @@
   
   <img src="https://github.com/harsh6768/node-login/blob/master/images/mvc.png" alt="">
   
+ ## What is MVC?
+    
+    The MVC is an architectural pattern that separates an application into three main logical components.
+    1. Model
+    2. View
+    3. Controller
+  
 
         node-login
         ├── app.js
