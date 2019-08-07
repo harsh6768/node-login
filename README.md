@@ -13,28 +13,29 @@
   2. View
   3. Controller
   
+  
 
-        node-login
-        ├── app.js
-        ├── backend
-        │ ├── controllers
-        │ │ ├── authController.js
-        │ │ └── controller.js
-        | | !-- schema.joi.js
-        │ ├── databases
-        │ │ └── db.users.js
-        │ └── routes
-        │   └── mainRoutes.js
-        ├── client
-        │ ├── images
-        │ │ └── bg.jpg
-        | | !-- bg1.jpg
-        │ └── views
-        │   ├── index.ejs
-        │   ├── home.ejs
-        │   └── signup.ejs
-        |   |-- login.ejs
-        └── package.json
+            node-login
+            ├── app.js
+            ├── backend
+            │ ├── controllers
+            │ │ ├── authController.js
+            │ │ └── controller.js
+            | | !-- schema.joi.js
+            │ ├── databases
+            │ │ └── db.users.js
+            │ └── routes
+            │   └── mainRoutes.js
+            ├── client
+            │ ├── images
+            │ │ └── bg.jpg
+            | | !-- bg1.jpg
+            │ └── views
+            │   ├── index.ejs
+            │   ├── home.ejs
+            │   └── signup.ejs
+            |   |-- login.ejs
+            └── package.json
                     
                     
    
