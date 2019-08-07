@@ -13,11 +13,17 @@
       
        npm install --save mongoose
        
-##### 3. joi : to validate the input
+##### 3. ejs(extended javascript): template engine to render the ejs files to html file
     
-   [documentation of joi](https://www.npmjs.com/package/@hapi/joi)
+   [documentation of ejs](https://www.npmjs.com/package/ejs)
       
-       npm install --save @hapi/joi
+       npm install --save ejs
+
+##### 3. body-parser: Parse incoming request bodies in a middleware before your handlers, available under the req.body                  property.
+    
+   [documentation of body-parser](https://www.npmjs.com/package/body-parser)
+      
+       npm install --save body-parser
 
       
   
