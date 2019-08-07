@@ -1,5 +1,30 @@
 #####
 ## :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
+   
+        node-login
+        ├── app.js
+        ├── backend
+        │ ├── controllers
+        │ │ ├── authController.js
+        │ │ └── controller.js
+        | | !-- schema.joi.js
+        │ ├── databases
+        │ │ └── db.users.js
+        │ └── routes
+        │   └── mainRoutes.js
+        ├── client
+        │ ├── images
+        │ │ └── bg.jpg
+        | | !-- bg1.jpg
+        │ └── views
+        │   ├── index.ejs
+        │   ├── home.ejs
+        │   └── signup.ejs
+        |   |-- login.ejs
+        └── package.json
+                    
+                    
+   
 ### Used Dependencies:
 ##### 1. express : to make server and routes
     
